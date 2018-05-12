@@ -1,0 +1,30 @@
+_repo: With-the-Jud-ans-in-the-Palestine-Campaign_41848
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41848-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Patterson, J. H. (John Henry)
+    alias: Patterson, John Henry
+    birthdate: 1867
+    deathdate: 1947
+    gutenberg_agent_id: '1313'
+    url: http://www.gutenberg.org/2009/agents/1313
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Patterson_%28author%29
+description: ''
+gutenberg_issued: '2013-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41848'
+  lccn: '22014606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Palestine'
+- !lcsh 'World War, 1914-1918 -- Participation, Jewish'
+- !lcc 'D501'
+title: With the Judæans in the Palestine Campaign
+url: http://www.gutenberg.org/ebooks/41848
